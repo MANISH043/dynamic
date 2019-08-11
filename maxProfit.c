@@ -1,3 +1,10 @@
+// Program Optimizes the Profit on a Subway Roll of N inches
+/* Given :  Profit for Roll of length 1: 1
+            Profit for Roll of length 2: 5
+            Profit for Roll of length 3: 8
+            Profit for Roll of length 4: 9
+
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
